@@ -1,5 +1,5 @@
-<h1 align="left">🫂 Hi! Im'Ansh Jindal</h1>
-<h3 align="left"> A Guy from India who likes to code!</h3>
+<h1 align="left">🫂 Hi! Welcome to my github page!</h1>
+<h3 align="left"> Im Ansh Jindal! I am from Delhi,India and i just really like to program!</h3>
 
 
 <h3 align="left">Connect with me:</h3>
