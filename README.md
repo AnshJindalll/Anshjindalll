@@ -49,8 +49,7 @@
   <!-- PANDA -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/> 
   <!-- TENSORF -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="sciket" width="40" height="40"/> 
-  <!-- SCIKIT -->        
+  </p>          
 
 
 
